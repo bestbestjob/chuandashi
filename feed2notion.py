@@ -3,7 +3,7 @@ import requests
 from utils import NotionAPI, deep_get, parse_rss
 
 NOTION_SEC = os.environ.get("NOTION_SEC")
-NOTION_DB_RSS = "90761665a1d141b984afca52a2b05410"
+NOTION_DB_RSS = "729b664e3465425a89314b0deee02e2a"
 NOTION_DB_KEYWORDS = "26d213dcc8b641cd921db43eb7b23733"
 NOTION_DB_READER = "28dfbfdf24a848cd9de28302454ee3dd"
 
